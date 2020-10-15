@@ -2,4 +2,4 @@
 
 Palestra apresentada na Python Brasil 2020
 
-The Carpentries é uma comunidade que busca construir capacidade global em habilidades computacionais e de dados para conduzir pesquisas eficientes, abertas e reprodutíveis, ao mesmo tempo que fomenta uma comunidade ativa, inclusiva e diversa. Nessa palestra iremos apresentar a comunidade e como você pode se juntar a ela!
+Você gosta de compartilhar conhecimento? Nessa palestra iremos apresentar a comunidade The Carpentries, que ensina habilidades computacionais e de ciência de dados para pessoas pesquisadoras ao redor do mundo, ao mesmo tempo que fomenta uma comunidade ativa, inclusiva e diversa.
