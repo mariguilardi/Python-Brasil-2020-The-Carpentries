@@ -8,7 +8,7 @@ Você gosta de compartilhar conhecimento? Nessa palestra iremos apresentar a com
 
 Mini bio Mariana Dias Guilardi:
 
-Mariana Guilardi está em processo para se tornar instrutora na The Carpentries. Participa das comunidades PyLadies SP e R-Ladies SP. É bióloga e mestranda em Biotecnologia (USP/IPT/IBu), e estuda biodiversidade. Busca mostrar a importância da tecnologia em áreas não correlatas a ela. Segue o lema: aprender e compartilhar.
+Mariana Guilardi está em processo para ser instrutora na The Carpentries. Participa das comunidades PyLadies SP e R-Ladies SP. É bióloga e mestranda em Biotecnologia (USP/IPT/IBu), e estuda biodiversidade. Busca mostrar a importância da tecnologia em áreas não correlatas a ela. 
 
 Mini bio Beatriz Milz:
 
