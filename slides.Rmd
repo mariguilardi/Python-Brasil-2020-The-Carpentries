@@ -1,0 +1,70 @@
+---
+title: "Ensino de programação:"
+subtitle: "Como fazer parte da comunidade global The Carpentries?"  
+author: 
+  - "Mariana Dias Guilardi"
+  - "Beatriz Milz"
+date: 'Python Brasil 2020'
+encoding: "UTF-8"
+output:
+  xaringan::moon_reader:
+    lib_dir: libs
+    chakra: libs/remark-latest.min.js
+    css: 
+    - xaringan-themer.css
+    - custom.css
+    nature:
+      highlightStyle: github
+      highlightLines: true
+      countIncrementalSlides: false
+#      ratio: 191:100
+      ratio: 17:10
+---
+
+```{r, child="header.Rmd"}
+```
+
+```{r logo, echo=FALSE}
+xaringanExtra::use_logo(
+  image_url = "https://raw.githubusercontent.com/carpentries/logo/756b57cb8ae9a469dc92d9f8b9409193a713181d/carpentries-hex-white.svg",
+  link_url = "https://carpentries.org/"
+)
+
+```
+
+
+## Quem somos nós?
+
+.pull-left[
+### Mariana Dias Guilardi
+]
+
+.pull-right[
+### Beatriz Milz
+<!-- inicio icones -->
+<a href='https://beatrizmilz.com'><i class="fas fa-house-user"></i></a>    
+<a href='mailto:beatriz.milz@usp.br'><i class="far fa-envelope"></i></a>   
+<a href='https://twitter.com/BeaMilz'  target="_blank"><i class="fab fa-twitter"></i></a>   
+<a href='https://github.com/beatrizmilz' target="_blank"><i class="fab fa-github"></i></a>   
+<a href='https://orcid.org/0000-0002-3064-4486' target="_blank"><i class="fab fa-orcid"></i></a>   
+<a href='http://lattes.cnpq.br/5150665880581477' target="_blank"><i class="ai ai-lattes"></i></a>   
+<a href='https://beatrizmilz.github.io/resume/index.html' target="_blank"><i class="ai ai-cv"></i></a>   
+<a href='https://discourse.curso-r.com/u/beatrizmilz/summary' target="_blank"><i class="fab fa-discourse"></i></a> 
+<a href='https://www.instagram.com/beatrizmilz/' target="_blank"><i class="fab fa-instagram"></i></a> 
+<!-- final icones -->
+
+- [Instrutora da The Carpentries](https://carpentries.org/instructors/)
+- [Instrutora de `tidyverse` certificada pela RStudio](https://education.rstudio.com/trainers/people/milz+beatriz/)
+- Co-organizadora: [R-Ladies São Paulo](https://www.meetup.com/R-Ladies-Sao-Paulo/), [satRday São Paulo](https://saopaulo2019.satrdays.org/), [LatinR](https://latin-r.com/pt), [useR! 2021 global](https://user2021.r-project.org/)
+- Doutoranda em Ciência Ambiental (IEE/USP)
+- Mestre em Ciências (UNIFESP)
+- Bacharela em Gestão Ambiental (EACH/USP)
+- [Embaixadora de Inovação Cívica da Open Knowledge Brasil](https://embaixadoras.ok.org.br/).
+]
+
+---
+class: inverse
+
+## Teste.
+
+bom slide para transição. bia: lembrar de melhorar o CSS

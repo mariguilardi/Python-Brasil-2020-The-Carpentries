@@ -14,4 +14,11 @@ Mini bio Beatriz Milz:
 
 Beatriz Milz é instrutora da The Carpentries e RStudio, participante ativa da comunidade da linguagem R e co-organizadora da R-Ladies SP. Faz doutorado em Ciência Ambiental na USP, pesquisando o tema de transparência na gestão da água. Adora ensinar e contribuir com comunidades.
 
-Foto: https://beatrizmilz.com/authors/admin/avatar_hu74ee5c9a3fb4f578cd5b91d4057e4fbc_131284_270x270_fill_q90_lanczos_center.jpg
+
+## Pacotes necessários para gerar a apresentação 
+
+```
+library(xaringan)
+library(xaringanthemer)
+devtools::install_github("gadenbuie/xaringanExtra")
+```

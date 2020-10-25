@@ -1,0 +1,28 @@
+```{r setup, include=FALSE}
+options(htmltools.dir.version = FALSE)
+knitr::opts_chunk$set(fig.align = "center",
+                      out.width = "90%")
+```
+
+```{r xaringan-themer, include=FALSE, warning=FALSE}
+library(xaringanthemer)
+style_duo_accent(
+  primary_color = "#071159",
+  secondary_color = "#BEBEBE",
+  inverse_header_color = "#071159"
+)
+```
+
+```{r xaringanExtra, include=FALSE, warning=FALSE}
+
+xaringanExtra::use_xaringan_extra(c("tile_view"))
+```
+
+
+<!-- inicio font awesome -->
+<script src="https://kit.fontawesome.com/1f72d6921a.js" crossorigin="anonymous"></script>
+<!-- final font awesome -->
+
+<!-- inicio github buttons  -->
+<script async defer src="https://buttons.github.io/buttons.js"></script>
+<!-- final github buttons  -->
