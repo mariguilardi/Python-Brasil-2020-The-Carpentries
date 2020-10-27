@@ -37,6 +37,19 @@ xaringanExtra::use_logo(
 
 .pull-left[
 ### Mariana Dias Guilardi
+<!-- inicio icones -->
+<a href='mailto:diasgmariana@gmail.com'><i class="far fa-envelope"></i></a>   
+<a href='https://twitter.com/mariguilardi'  target="_blank"><i class="fab fa-twitter"></i></a>   
+<a href='https://github.com/mariguilardi' target="_blank"><i class="fab fa-github"></i></a>   
+<a href='https://orcid.org/0000-0002-6076-0023' target="_blank"><i class="fab fa-orcid"></i></a>   
+<a href='https://bit.ly/2QPS4Rr' target="_blank"><i class="ai ai-lattes"></i></a> 
+<!-- final icones -->
+
+- [Em processo para se tornar instrutora da The Carpentries](https://amy.carpentries.org/forms/request_training/)
+- Participante: [PyLadies São Paulo](sympla.com.br/PyLadiesSP), [R-Ladies São Paulo](https://www.meetup.com/R-Ladies-Sao-Paulo/)
+- Co-organizadora: [satRday São Paulo](https://saopaulo2019.satrdays.org/)
+- Mestranda no Programa Interunidades em Biotecnologia (USP/IPT/IBu)
+- Bacharela em Ciências Biológicas (UFSCar campus Sorocaba)
 ]
 
 .pull-right[
@@ -61,6 +74,18 @@ xaringanExtra::use_logo(
 - Bacharela em Gestão Ambiental (EACH/USP)
 - [Embaixadora de Inovação Cívica da Open Knowledge Brasil](https://embaixadoras.ok.org.br/).
 ]
+
+---
+## Instrutores que construíram esta apresentação:
+
+- Alexandre Villares
+
+- Filipe Fernandes
+
+- Melissa Weber Mendonça
+
+- Vinicius Salazar
+
 
 ---
 class: inverse
