@@ -20,7 +20,7 @@ output:
 #      ratio: 191:100
       ratio: 17:10
 ---
-
+class: middle
 ```{r, child="header.Rmd"}
 ```
 
@@ -84,7 +84,11 @@ class: middle
 
 - Participantes de comunidades de programação
 
-<!-- pensei em colocar ilustrações aqui -->
+<!-- pensei em colocar ilustrações aqui --> 
+
+m: ADOREI O SLIDE! Vou tentar pensar em ilustrações aqui, mas fique a vontade de por o que achar melhor :)
+
+
 
 ---
 class: middle
@@ -234,6 +238,36 @@ class:  middle
 
 Colocar aqui currículos de treinamento?
 B: (não entendi o que é pra colocar kkkkkk talvez o print de alguns cursos no github, mostrando que é desenvolvido assim?)
+M: isso! Estava pensando em mostrar a gama de cursos que a Carpentries possui! Acha legal? 
+
+---
+class: middle
+
+## Como este trabalho é feito?
+
+### [Glossário](https://glosario.carpentries.org/)
+
+- É um glossário de código aberto (open source) de termos utilizados em ciência de dados que está disponível online, e também como um pacote de R e uma biblioteca de Python. 
+
+
+```{r echo=FALSE, out.width="70%", fig.align='center'}
+knitr::include_graphics("img/glossario.png")
+```
+
+---
+class: middle
+
+## Como este trabalho é feito?
+
+### [Glossário](https://glosario.carpentries.org/)
+
+- Qual a importância desse glossário?
+
+  - Pessoas autoras podem indicar o conteúdo da lição. 
+
+  - O que estudantes precisam saber antes de começar, e onde podem procurar conteúdos. 
+
+  - As pessoas autoras também podem utilizar as funções das bibliotecas para inserir links consistentes para termos e definições em suas lições.
 
 ---
 class:  middle
@@ -244,7 +278,7 @@ class:  middle
 
 - Instrutoras organizam e ensinam oficinas para disseminar a alfabetização em dados e habilidades programáticas tanto local quanto globalmente. 
 
-- As pessoas membras de nossa comunidade de instrutoras trabalham juntos para aumentar ativamente suas habilidades técnicas e de instrução. 
+- As pessoas instrutoras de nossa comunidade trabalham juntas para aumentar ativamente suas habilidades técnicas e de instrução. 
 
 - Tornar-se uma instrutora é um grande passo para aprimorar suas próprias habilidades técnicas e ajuda você a se tornar uma pessoa comunicadora técnica mais eficaz.
 
@@ -294,18 +328,17 @@ class:   middle
   4.2 Participar de uma discussão online (community discussion)
   
   4.3 Live coding demo de 5 minutos.
-  
-
-
 
 ---
 class: middle
 
 ## Desafios para a comunidade no Brasil
 
-....
+- Treinamento de pessoas instrutoras é em inglês
 
+- Poucas pessoas instrutoras certificadas
 
+- Material de oficinas está em inglês 
 
 ---
 class: middle
@@ -316,3 +349,4 @@ class: middle
 
 
 - Post sobre [como foi fazer o treinamento ](https://beamilz.netlify.app/posts/2020-02-22-the-carpentries-como-fazer-o-treinamento-de-instrutora/), por Beatriz Milz
+
