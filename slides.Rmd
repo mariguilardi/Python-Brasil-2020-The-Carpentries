@@ -86,8 +86,7 @@ class: middle
 
 <!-- pensei em colocar ilustrações aqui --> 
 
-m: ADOREI O SLIDE! Vou tentar pensar em ilustrações aqui, mas fique a vontade de por o que achar melhor :)
-
+<!-- m: ADOREI O SLIDE! Vou tentar pensar em ilustrações aqui, mas fique a vontade de por o que achar melhor :) -->
 
 
 ---
@@ -162,14 +161,14 @@ knitr::include_graphics("img/dc.svg")
 
 - Lições:
 
-> * [Data Analysis and Visualization in Python for Ecologists](https://datacarpentry.org/python-ecology-lesson/)
+  - [Data Analysis and Visualization in Python for Ecologists](https://datacarpentry.org/python-ecology-lesson/)
 
-> * [Data Analysis and Visualization with Python for Social Scientists](Data Analysis and Visualization with Python for Social Scientists *alpha*)
+  - [Data Analysis and Visualization with Python for Social Scientists](Data Analysis and Visualization with Python for Social Scientists *alpha*)
 
 
-> * [Image Processing with Python](https://datacarpentry.org/image-processing/)
+  - [Image Processing with Python](https://datacarpentry.org/image-processing/)
 
-> * Material da comunidade: [Python for Atmosphere and Ocean Scientists](https://carpentrieslab.github.io/python-aos-lesson/)
+  - Material da comunidade: [Python for Atmosphere and Ocean Scientists](https://carpentrieslab.github.io/python-aos-lesson/)
 
 ]
 
@@ -191,7 +190,7 @@ knitr::include_graphics("img/lc.svg")
 
 - Lições:
 
-> * [Introduction to Python](https://librarycarpentry.org/lc-python-intro/)
+  - [Introduction to Python](https://librarycarpentry.org/lc-python-intro/)
 
 ]
 
@@ -213,9 +212,9 @@ knitr::include_graphics("img/swc.svg")
 
 - Lições:
 
-> * [Programming with Python](http://swcarpentry.github.io/python-novice-inflammation)
+  - [Programming with Python](http://swcarpentry.github.io/python-novice-inflammation)
 
-> * [Plotting and Programming in Python](http://swcarpentry.github.io/python-novice-gapminder)
+  - [Plotting and Programming in Python](http://swcarpentry.github.io/python-novice-gapminder)
 
 ]
 
@@ -235,10 +234,31 @@ class:  middle
 
 ## Como este trabalho é feito? 
 
+### [Oficinas](https://carpentries.org/workshops/#workshop-curriculum) 
+  - Data Carpentry: Ecology
+  - Data Carpentry: Genomics
+  - Data Carpentry: Geospatial
+  - Data Carpentry: Social Sciences
+  - Library Carpentry
+  - Software Carpentry (All Workshops)
+  - Software Carpentry (Plotting and Programming in Python)
+  - Software Carpentry (Programming with Python)
+  - Software Carpentry (Programming with R)
+  - Software Carpentry (R for Reproducible Scientific Analysis)
+  - Community Developed Lessons
 
-Colocar aqui currículos de treinamento?
-B: (não entendi o que é pra colocar kkkkkk talvez o print de alguns cursos no github, mostrando que é desenvolvido assim?)
-M: isso! Estava pensando em mostrar a gama de cursos que a Carpentries possui! Acha legal? 
+---
+class:  middle
+
+## Como este trabalho é feito? 
+
+### [Oficinas](https://carpentries.org/workshops/#workshop-curriculum) 
+
+- Contribuições para essas oficinas podem ser feitas no GitHub da [Data Carpentry](https://github.com/datacarpentry), [Library Carpentry](https://github.com/LibraryCarpentry) e [Software Carpentry](https://github.com/swcarpentry).
+
+```{r echo=FALSE, out.width="70%", fig.align='center'}
+knitr::include_graphics("img/ecologia.png")
+```
 
 ---
 class: middle
@@ -316,9 +336,9 @@ class:   middle
 
 3. Treinamento online em inglês  
 
-> * Treinamento de dois dias. 
+  - Treinamento de dois dias. 
 
-> * Durante período de quarentena: possibilidade de realizar treinamento quatro dias com 1h30min. 
+  - Durante período de quarentena: possibilidade de realizar treinamento quatro dias com 1h30min. 
 
 
 4. Checkout Process: 
@@ -350,3 +370,12 @@ class: middle
 
 - Post sobre [como foi fazer o treinamento ](https://beamilz.netlify.app/posts/2020-02-22-the-carpentries-como-fazer-o-treinamento-de-instrutora/), por Beatriz Milz
 
+---
+class: middle, center
+
+# Agradecemos sua atenção!
+
+
+Apresentação disponível [neste link](https://mariguilardi.github.io/Python-Brasil-2020-The-Carpentries/)
+
+<!-- m: vou criar bit.ly para apresentação --> 
