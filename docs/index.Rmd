@@ -18,7 +18,7 @@ output:
       highlightLines: true
       countIncrementalSlides: false
 #      ratio: 191:100
-      ratio: 17:10
+      ratio: 1920:1080
 ---
 class: middle
 ```{r, child="header.Rmd"}
@@ -148,7 +148,7 @@ class:  middle
 
 .pull-left[
 <br>
-```{r echo=FALSE, out.width="50%", fig.align='center'}
+```{r echo=FALSE, out.width="50%", fig.align='center', fig.cap="Legenda: Logo da Data Carpentry"}
 knitr::include_graphics("img/dc.svg")
 ```
 
@@ -179,7 +179,7 @@ class:  middle
 
 .pull-left[
 <br>
-```{r echo=FALSE, out.width="50%", fig.align='center'}
+```{r echo=FALSE, out.width="50%", fig.align='center', fig.cap="Legenda: Logo da Library Carpentry"}
 knitr::include_graphics("img/lc.svg")
 ```
 
@@ -201,7 +201,7 @@ class:  middle
 
 .pull-left[
 <br>
-```{r echo=FALSE, out.width="50%", fig.align='center'}
+```{r echo=FALSE, out.width="50%", fig.align='center', fig.cap="Legenda: Logo da Software Carpentry"}
 knitr::include_graphics("img/swc.svg")
 ```
 
@@ -256,21 +256,19 @@ class:  middle
 
 - Contribuições para essas oficinas podem ser feitas no GitHub da [Data Carpentry](https://github.com/datacarpentry), [Library Carpentry](https://github.com/LibraryCarpentry) e [Software Carpentry](https://github.com/swcarpentry).
 
-```{r echo=FALSE, out.width="70%", fig.align='center'}
+```{r echo=FALSE, out.width="50%", fig.align='center' , fig.cap="Legenda: Imagem do Repositório no GitHub do material do workshop sobre ecologia, da Data Carpentry "}
 knitr::include_graphics("img/ecologia.png")
 ```
 
 ---
 class: middle
 
-## Como este trabalho é feito?
-
 ### [Glossário](https://glosario.carpentries.org/)
 
 - É um glossário de código aberto (open source) de termos utilizados em ciência de dados que está disponível online, e também como um pacote de R e uma biblioteca de Python. 
 
 
-```{r echo=FALSE, out.width="70%", fig.align='center'}
+```{r echo=FALSE, out.width="50%", fig.align='center', fig.cap="Legenda: Imagem do site do projeto Glossário, em Português. O logo é um papagaio azul e amarelo, com duas folhas verdes em frente. Aparecem na imagem alguns termos em português, seus significados, alguns termos relacionados, e idiomas em que o termo foi traduzido."}
 knitr::include_graphics("img/glossario.png")
 ```
 
@@ -308,7 +306,7 @@ class:   middle
 ## Instrutoras - Mundo
 
 
-```{r echo=FALSE, out.width="80%", fig.align='center'}
+```{r echo=FALSE, out.width="60%", fig.align='center',  fig.cap="Legenda: Imagem do mapa do mundo mostrando a localização das pessoas instrutoras da Carpentries.  No Brasil aparecem poucas pessoas."}
 knitr::include_graphics("img/instrutores-mundo.png")
 ```
 
@@ -319,7 +317,7 @@ class:   middle
 
 ## Instrutoras - Brasil
 
-```{r echo=FALSE, out.width="70%", fig.align='center'}
+```{r echo=FALSE, out.width="50%", fig.align='center', fig.cap="Legenda: Imagem do mapa do mundo mostrando a localização das pessoas instrutoras da Carpentries.  No Brasil aparecem 5 pessoas."}
 knitr::include_graphics("img/instrutores-br.png")
 ```
 
