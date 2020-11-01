@@ -268,7 +268,7 @@ class: middle
 - É um glossário de código aberto (open source) de termos utilizados em ciência de dados que está disponível online, e também como um pacote de R e uma biblioteca de Python. 
 
 
-```{r echo=FALSE, out.width="50%", fig.align='center', fig.cap="Legenda: Imagem do site do projeto Glossário, em Português. O logo é um papagaio azul e amarelo, com duas folhas verdes em frente. Aparecem na imagem alguns termos em português, seus significados, alguns termos relacionados, e idiomas em que o termo foi traduzido."}
+```{r echo=FALSE, out.width="50%", fig.align='center', fig.cap="Legenda: Imagem do site do projeto Glossário, em Português. O logo é um pássaro azul e amarelo, com duas folhas verdes em frente. Aparecem na imagem alguns termos em português, seus significados, alguns termos relacionados, e idiomas em que o termo foi traduzido."}
 knitr::include_graphics("img/glossario.png")
 ```
 
@@ -306,7 +306,7 @@ class:   middle
 ## Instrutoras - Mundo
 
 
-```{r echo=FALSE, out.width="60%", fig.align='center',  fig.cap="Legenda: Imagem do mapa do mundo mostrando a localização das pessoas instrutoras da Carpentries.  No Brasil aparecem poucas pessoas."}
+```{r echo=FALSE, out.width="60%", fig.align='center',  fig.cap="Legenda: Imagem do mapa do mundo mostrando a localização das pessoas instrutoras da Carpentries.  Na Europa e América do Norte estão a maioria das pessoas instrutoras."}
 knitr::include_graphics("img/instrutores-mundo.png")
 ```
 
@@ -317,7 +317,7 @@ class:   middle
 
 ## Instrutoras - Brasil
 
-```{r echo=FALSE, out.width="50%", fig.align='center', fig.cap="Legenda: Imagem do mapa do mundo mostrando a localização das pessoas instrutoras da Carpentries.  No Brasil aparecem 5 pessoas."}
+```{r echo=FALSE, out.width="50%", fig.align='center', fig.cap="Legenda: Imagem do mapa do Brasil mostrando a localização das pessoas instrutoras da Carpentries.  No Brasil aparecem 5 pessoas instrutoras no mapa."}
 knitr::include_graphics("img/instrutores-br.png")
 ```
 
