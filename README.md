@@ -25,4 +25,4 @@ devtools::install_github("gadenbuie/xaringanExtra")
 
 ## Apresentação 
 
-[Apresentação disponível aqui](https://mariguilardi.github.io/Python-Brasil-2020-The-Carpentries/)
+[Apresentação disponível aqui](https://mariguilardi.github.io/Python-Brasil-2020-The-Carpentries/index.html)
