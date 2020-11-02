@@ -108,10 +108,9 @@ class:  middle
 
 ## O que é a The Carpentries?
 
-- Visão: Nossa visão é ser a comunidade inclusiva líder em ensino de dados e habilidades de programação.
+- Visão: ser a comunidade inclusiva líder em ensino de dados e habilidades de programação.
 
-- Missão: A Carpentries desenvolve capacidade global em dados essenciais e habilidades computacionais para conduzir pesquisas eficientes, abertas e reproduzíveis. Treinamos e promovemos uma comunidade ativa, inclusiva e diversificada de alunos e pessoas instrutoras que promove e modela a importância do software e dos dados na pesquisa. Colaboramos no desenvolvimento de lições abertas e entregamos essas lições usando práticas de ensino baseadas em evidências. 
-
+- Missão: desenvolver capacidade global em habilidades essenciais de computação e de dados para conduzir pesquisas eficientes, abertas e reproduzíveis. 
 
 Fonte: https://carpentries.org/about/
 
@@ -176,7 +175,7 @@ class:  middle
 ## [Library Carpentry](https://librarycarpentry.org/)
 
 .pull-left[
-- Concentra-se na construção de habilidades de software e dados em comunidades relacionadas a bibliotecas e informações.
+- Concentra-se na construção de habilidades de *software* e dados em comunidades relacionadas a bibliotecas e informações.
 
 <br>
 ```{r echo=FALSE, out.width="50%", fig.align='center', fig.cap="Legenda: Logo da Library Carpentry"}
@@ -285,7 +284,7 @@ class: middle
 
   - O que estudantes precisam saber antes de começar, e onde podem procurar conteúdos. 
 
-  - As pessoas autores também podem usar as funções da biblioteca para inserir *links* consistentes para termos e definições em suas aulas em qualquer idioma disponível.
+  - As pessoas autoras também podem usar as funções da biblioteca para inserir *links* consistentes para termos e definições em suas aulas em qualquer idioma disponível.
 
 ---
 class:  middle
@@ -295,6 +294,8 @@ class:  middle
 - Sendo uma pessoa [instrutora](https://carpentries.org/community/#instructors).
 
 - Instrutoras organizam e ensinam oficinas para disseminar a alfabetização em dados e habilidades de programação tanto local quanto globalmente. 
+
+- Instrutores promovem e modelam a importância do *software* e dos dados na pesquisa.
 
 - As pessoas instrutoras de nossa comunidade trabalham juntas para aumentar ativamente suas habilidades técnicas e de instrução. 
 
