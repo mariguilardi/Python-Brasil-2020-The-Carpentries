@@ -374,6 +374,5 @@ class: middle, center
 # Agradecemos sua atenção!
 
 
-Apresentação disponível [neste link](https://mariguilardi.github.io/Python-Brasil-2020-The-Carpentries/)
+Apresentação disponível neste link: [bit.ly/CarpentriesPyBR2020](http://bit.ly/CarpentriesPyBR2020)
 
-<!-- m: vou criar bit.ly para apresentação --> 
