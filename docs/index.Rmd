@@ -44,10 +44,10 @@ xaringanExtra::use_logo(
 <!-- final icones -->
 
 - Em processo para se tornar instrutora da The Carpentries
-- Participante: [PyLadies São Paulo](sympla.com.br/PyLadiesSP), [R-Ladies São Paulo](https://www.meetup.com/R-Ladies-Sao-Paulo/)
+- Participante: [PyLadies São Paulo](sympla.com.br/PyLadiesSP), [R-Ladies São Paulo](https://www.meetup.com/R-Ladies-Sao-Paulo/), [Grupo de Estudos em Data Science PyLadies São Paulo](https://github.com/PyLadiesSP/data-science)
 - Co-organizadora: [satRday São Paulo](https://saopaulo2019.satrdays.org/)
 - Mestranda no Programa Interunidades em Biotecnologia (USP/IPT/IBu)
-- Bacharela em Ciências Biológicas (UFSCar campus Sorocaba)
+- Bacharela em Ciências Biológicas (UFSCar *campus* Sorocaba)
 ]
 
 .pull-right[
@@ -144,30 +144,27 @@ class:  middle
 ---
 class:  middle
 
-## Data Carpentry
+## [Data Carpentry](http://www.datacarpentry.org/)
 
 .pull-left[
-<br>
+- Desenvolve e ministra workshops sobre as habilidades de dados fundamentais necessárias para conduzir pesquisas, cobrindo todo o ciclo de vida da pesquisa baseada em dados.
+
 ```{r echo=FALSE, out.width="50%", fig.align='center', fig.cap="Legenda: Logo da Data Carpentry"}
 knitr::include_graphics("img/dc.svg")
 ```
 
-- [Data Carpentry](http://www.datacarpentry.org/): desenvolve e ministra workshops sobre as habilidades de dados fundamentais necessárias para conduzir pesquisas, cobrindo todo o ciclo de vida da pesquisa baseada em dados.
-
 ]
 
 .pull-right[
-
 
 - Lições:
 
   - [Data Analysis and Visualization in Python for Ecologists](https://datacarpentry.org/python-ecology-lesson/)
 
   - [Data Analysis and Visualization with Python for Social Scientists](Data Analysis and Visualization with Python for Social Scientists *alpha*)
-
-
+  
   - [Image Processing with Python](https://datacarpentry.org/image-processing/)
-
+  
   - Material da comunidade: [Python for Atmosphere and Ocean Scientists](https://carpentrieslab.github.io/python-aos-lesson/)
 
 ]
@@ -175,18 +172,21 @@ knitr::include_graphics("img/dc.svg")
 ---
 class:  middle
 
-## Library Carpentry
+## [Library Carpentry](https://librarycarpentry.org/)
 
 .pull-left[
+- Concentra-se na construção de habilidades de software e dados em comunidades relacionadas a bibliotecas e informações.
+
 <br>
-```{r echo=FALSE, out.width="50%", fig.align='center', fig.cap="Legenda: Logo da Library Carpentry"}
+```{r echo=FALSE, out.width="60%", fig.align='center', fig.cap="Legenda: Logo da Library Carpentry"}
 knitr::include_graphics("img/lc.svg")
 ```
+
+ 
 
 ]
 
 .pull-right[
-- [Library Carpentry](https://librarycarpentry.org/): concentra-se na construção de habilidades de software e dados em comunidades relacionadas a bibliotecas e informações. 
 
 - Lições:
 
@@ -197,18 +197,21 @@ knitr::include_graphics("img/lc.svg")
 ---
 class:  middle
 
-## Software Carpentry
+## [Software Carpentry](https://software-carpentry.org/)
 
 .pull-left[
+
+- Ensina aos pesquisadores as habilidades de computação de que precisam para fazer mais em menos tempo e de forma menos dolorosa.
+
 <br>
-```{r echo=FALSE, out.width="50%", fig.align='center', fig.cap="Legenda: Logo da Software Carpentry"}
+```{r echo=FALSE, out.width="60%", fig.align='center', fig.cap="Legenda: Logo da Software Carpentry"}
 knitr::include_graphics("img/swc.svg")
 ```
 
 ]
 
 .pull-right[
-- [Software Carpentry](https://software-carpentry.org/): ensina aos pesquisadores as habilidades de computação de que precisam para fazer mais em menos tempo e de forma menos dolorosa.
+
 
 - Lições:
 
@@ -235,16 +238,12 @@ class:  middle
 ## Como este trabalho é feito? 
 
 ### [Oficinas](https://carpentries.org/workshops/#workshop-curriculum) 
-  - Data Carpentry: Ecology
-  - Data Carpentry: Genomics
-  - Data Carpentry: Geospatial
-  - Data Carpentry: Social Sciences
-  - Library Carpentry
-  - Software Carpentry (All Workshops)
-  - Software Carpentry (Plotting and Programming in Python)
-  - Software Carpentry (Programming with Python)
-  - Software Carpentry (Programming with R)
-  - Software Carpentry (R for Reproducible Scientific Analysis)
+  - [Data Carpentry: Ecology](https://datacarpentry.org/lessons/#ecology-workshop)
+  - [Data Carpentry: Genomics](https://datacarpentry.org/lessons/#genomics-workshop)
+  - [Data Carpentry: Geospatial](https://datacarpentry.org/lessons/#geospatial-curriculum)
+  - [Data Carpentry: Social Sciences](https://datacarpentry.org/lessons/#social-science-curriculum)
+  - [Library Carpentry](https://librarycarpentry.org/lessons/): expressões regulares, Unix Shell, controle de versionamento com Git e OpenRefine
+  - [Software Carpentry: Unix Shell](https://software-carpentry.org/lessons/): controle de versionamento com Git e Python ou R
   - Community Developed Lessons
 
 ---
@@ -256,7 +255,7 @@ class:  middle
 
 - Contribuições para essas oficinas podem ser feitas no GitHub da [Data Carpentry](https://github.com/datacarpentry), [Library Carpentry](https://github.com/LibraryCarpentry) e [Software Carpentry](https://github.com/swcarpentry).
 
-```{r echo=FALSE, out.width="50%", fig.align='center' , fig.cap="Legenda: Imagem do Repositório no GitHub do material do workshop sobre ecologia, da Data Carpentry "}
+```{r echo=FALSE, out.width="50%", fig.align='center' , fig.cap="Legenda: Imagem do Repositório no GitHub do material da oficina sobre Ecologia, da Data Carpentry."}
 knitr::include_graphics("img/ecologia.png")
 ```
 
@@ -372,6 +371,10 @@ class: middle
 class: middle, center
 
 # Agradecemos sua atenção!
+
+```{r echo=FALSE, out.width="50%", fig.align='center', fig.cap="Legenda: Imagem com Logo da Python Brasil 2020."}
+knitr::include_graphics("img/pybr.png")
+```
 
 
 Apresentação disponível neste link: [bit.ly/CarpentriesPyBR2020](http://bit.ly/CarpentriesPyBR2020)
