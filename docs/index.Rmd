@@ -28,7 +28,9 @@ class: middle
 ```{r logo, echo=FALSE}
 xaringanExtra::use_logo(
   image_url = "https://raw.githubusercontent.com/carpentries/logo/756b57cb8ae9a469dc92d9f8b9409193a713181d/carpentries-hex-white.svg",
-  link_url = "https://carpentries.org/"
+  link_url = "https://carpentries.org/",
+  exclude_class = c("hide-logo", "title-slide")
+    
 )
 
 ```
@@ -377,11 +379,25 @@ class: middle
 - [Como contribuir com o Glosario?](https://docs.google.com/document/d/1tJVYv5U0chIRrtX7ZME5SltTI74pKncxsD8TT6tWvoE/edit) -  Na página 7 tem instruções em Português
 
 ---
-class: middle, center
+class: middle, center, hide-logo
 
-```{r echo=FALSE, out.width="40%", fig.align='center', fig.cap="Legenda: Ilustração por <a href='https://github.com/allisonhorst/stats-illustrations'> Allison Horst</a>. Descrição: Aparece uma pessoa usando uma capa de super heroína vermelha, com um notebook em mãos, e está dizendo 'Estou fazendo tudo sozinha!'. Enquanto isso, ela está amarrada por fios em dois balões de ar coloridos com pessoas dentro, e abaixo dela aparecem pessoas carregando um pula-pula. Essas pessoas representam a comunidade, professoras, amigas, mentoras, desenvolvedoras, contribuidoras, entre outras!"}
+
+
+.esquerda[
+```{r echo=FALSE, out.width="90%", fig.align='center'}
 knitr::include_graphics("img/hero-code-pt.png")
 ```
+]
+
+.direita[
+
+<br>
+
+.caption[Legenda: Ilustração por <a href='https://github.com/allisonhorst/stats-illustrations'> Allison Horst</a>. Descrição: Aparece uma pessoa usando uma capa de super heroína vermelha, com um notebook em mãos, e está dizendo 'Estou fazendo tudo sozinha!'. Enquanto isso, ela está amarrada por fios em dois balões de ar coloridos com pessoas dentro, e abaixo dela aparecem pessoas carregando um pula-pula. Essas pessoas representam a comunidade, professoras, amigas, mentoras, desenvolvedoras, contribuidoras, entre outras pessoas!
+]
+
+]
+
 
 ---
 class: middle, center
