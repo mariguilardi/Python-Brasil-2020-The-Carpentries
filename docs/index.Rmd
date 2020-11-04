@@ -239,9 +239,13 @@ class:  middle
 ## Como este trabalho é feito? 
 
 ### [Oficinas](https://carpentries.org/workshops/#workshop-curriculum) 
+
   - Data Carpentry: [Ecology](https://datacarpentry.org/lessons/#ecology-workshop), [Genomics](https://datacarpentry.org/lessons/#genomics-workshop), [Geospatial](https://datacarpentry.org/lessons/#geospatial-curriculum) e [Social Sciences](https://datacarpentry.org/lessons/#social-science-curriculum)
+
   - [Library Carpentry](https://librarycarpentry.org/lessons/): expressões regulares, Unix Shell, controle de versionamento com Git e OpenRefine
+
   - [Software Carpentry](https://software-carpentry.org/lessons/): Unix Shell, controle de versionamento com Git e Python ou R
+
   - Community Developed Lessons
 
 ---
@@ -263,15 +267,18 @@ class:  middle
 
 ## Como fazer parte da comunidade?
 
-- Sendo uma pessoa [instrutora](https://carpentries.org/community/#instructors).
+- Uma das formas é se tornando uma pessoa [instrutora](https://carpentries.org/community/#instructors).
 
-- Instrutoras organizam e ensinam oficinas para disseminar a alfabetização em dados e habilidades de programação tanto local quanto globalmente. 
-
-- Instrutoras promovem e modelam a importância do *software* e dos dados na pesquisa.
-
-- As pessoas instrutoras de nossa comunidade trabalham juntas para aumentar ativamente suas habilidades técnicas e de instrução. 
-
-- Tornar-se uma instrutora é um grande passo para aprimorar suas próprias habilidades técnicas e ajuda você a se tornar uma pessoa comunicadora técnica mais eficaz.
+  - Instrutoras organizam e ensinam oficinas para disseminar a alfabetização em dados e habilidades de programação tanto local quanto globalmente. 
+  
+  - Instrutoras promovem e modelam a importância do *software* e dos dados na pesquisa.
+  
+  - As pessoas instrutoras de nossa comunidade trabalham juntas para aumentar ativamente suas habilidades técnicas e de instrução. 
+  
+  - Tornar-se uma instrutora é um grande passo para aprimorar suas próprias habilidades técnicas e ajuda você a se tornar uma pessoa comunicadora técnica mais eficaz.
+  
+  
+- Confira a página da [equipe da Carpentries](https://carpentries.org/team/) 
 
 ---
 class:   middle
@@ -365,7 +372,16 @@ class: middle
 - [Treinamento de instrutoras](https://carpentries.github.io/instructor-training/)
 
 
-- Post sobre [como foi fazer o treinamento ](https://beamilz.netlify.app/posts/2020-02-22-the-carpentries-como-fazer-o-treinamento-de-instrutora/), por Beatriz Milz
+- Post sobre [como foi fazer o treinamento](https://beamilz.netlify.app/posts/2020-02-22-the-carpentries-como-fazer-o-treinamento-de-instrutora/), por Beatriz Milz
+
+- [Como contribuir com o Glosario?](https://docs.google.com/document/d/1tJVYv5U0chIRrtX7ZME5SltTI74pKncxsD8TT6tWvoE/edit) -  Na página 7 tem instruções em Português
+
+---
+class: middle, center
+
+```{r echo=FALSE, out.width="40%", fig.align='center', fig.cap="Legenda: Ilustração por <a href='https://github.com/allisonhorst/stats-illustrations'> Allison Horst</a>. Descrição: Aparece uma pessoa usando uma capa de super heroína vermelha, com um notebook em mãos, e está dizendo 'Estou fazendo tudo sozinha!'. Enquanto isso, ela está amarrada por fios em dois balões de ar coloridos com pessoas dentro, e abaixo dela aparecem pessoas carregando um pula-pula. Essas pessoas representam a comunidade, professoras, amigas, mentoras, desenvolvedoras, contribuidoras, entre outras!"}
+knitr::include_graphics("img/code_hero_blank.png")
+```
 
 ---
 class: middle, center

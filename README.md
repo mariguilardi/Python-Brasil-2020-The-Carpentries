@@ -20,7 +20,8 @@ Beatriz Milz é instrutora da The Carpentries e RStudio, participante ativa da c
 ```
 library(xaringan)
 library(xaringanthemer)
-devtools::install_github("gadenbuie/xaringanExtra")
+# devtools::install_github("gadenbuie/xaringanExtra")
+library(metathis)
 ```
 
 ## Apresentação 

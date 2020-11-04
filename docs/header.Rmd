@@ -18,6 +18,33 @@ style_duo_accent(
 xaringanExtra::use_xaringan_extra(c("tile_view"))
 ```
 
+```{r metathis, echo=FALSE}
+library(metathis)
+meta() %>%
+  meta_name("github-repo" = "mariguilardi/Python-Brasil-2020-The-Carpentries") %>% 
+  meta_social(
+    title = "Ensino de programação: Como fazer parte da comunidade global The Carpentries?",
+    description = paste(
+      "Apresentação sobre ",
+      "como fazer parte da comunidade global The Carpentries. "
+    ),
+    url = "https://mariguilardi.github.io/Python-Brasil-2020-The-Carpentries/index.html#1",
+    image = "https://mariguilardi.github.io/Python-Brasil-2020-The-Carpentries/img/share-card.png",
+    image_alt = paste(
+      "Primeiro slide da apresentação sobre",
+      "como fazer parte da comunidade global The Carpentries.",
+      "Apresentado por Mariana Dias Guilardi e Beatriz Milz, na Python Brasil 2020."
+    ),
+    og_type = "website",
+    og_author = c("Mariana Dias Guilardi", "Beatriz Milz"),
+    twitter_card_type = "summary_large_image",
+    twitter_creator = c("@mariguilardi", "@beamilz")
+  )
+```
+
+```{r xaringanExtra-share-again, echo=FALSE}
+xaringanExtra::use_share_again()
+```
 
 <!-- inicio font awesome -->
 <script src="https://kit.fontawesome.com/1f72d6921a.js" crossorigin="anonymous"></script>
