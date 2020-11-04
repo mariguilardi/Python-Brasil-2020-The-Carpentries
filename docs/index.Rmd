@@ -259,32 +259,6 @@ class:  middle
 knitr::include_graphics("img/ecologia.png")
 ```
 
----
-class: middle
-
-### [Glossário](https://glosario.carpentries.org/)
-
-- É um glossário de código aberto (open source) de termos utilizados em ciência de dados que está disponível online, e também como um pacote de R e uma biblioteca de Python. 
-
-
-```{r echo=FALSE, out.width="50%", fig.align='center', fig.cap="Legenda: Imagem do site do projeto Glossário, em Português. O logo é um pássaro azul e amarelo, com duas folhas verdes em frente. Aparecem na imagem alguns termos em português, seus significados, alguns termos relacionados, e idiomas em que o termo foi traduzido."}
-knitr::include_graphics("img/glossario.png")
-```
-
----
-class: middle
-
-## Como este trabalho é feito?
-
-### [Glossário](https://glosario.carpentries.org/)
-
-- Qual a importância desse glossário?
-
-  - Pessoas autoras podem indicar o conteúdo da lição. 
-
-  - O que estudantes precisam saber antes de começar, e onde podem procurar conteúdos. 
-
-  - As pessoas autoras também podem usar as funções da biblioteca para inserir *links* consistentes para termos e definições em suas aulas em qualquer idioma disponível.
 
 ---
 class:  middle
@@ -357,6 +331,34 @@ class: middle
 
 - Material de oficinas está em inglês. 
 
+
+---
+class: middle
+
+### [Glossário](https://glosario.carpentries.org/)
+
+- É um glossário de código aberto (open source) de termos utilizados em ciência de dados que está disponível online, e também como um pacote de R e uma biblioteca de Python. 
+
+
+```{r echo=FALSE, out.width="50%", fig.align='center', fig.cap="Legenda: Imagem do site do projeto Glossário, em Português. O logo é um pássaro azul e amarelo, com duas folhas verdes em frente. Aparecem na imagem alguns termos em português, seus significados, alguns termos relacionados, e idiomas em que o termo foi traduzido."}
+knitr::include_graphics("img/glossario.png")
+```
+
+---
+class: middle
+
+## Como este trabalho é feito?
+
+### [Glossário](https://glosario.carpentries.org/)
+
+- Qual a importância desse glossário?
+
+  - Pessoas autoras podem indicar o conteúdo da lição. 
+
+  - O que estudantes precisam saber antes de começar, e onde podem procurar conteúdos. 
+
+  - As pessoas autoras também podem usar as funções da biblioteca para inserir *links* consistentes para termos e definições em suas aulas em qualquer idioma disponível.
+  
 ---
 class: middle
 
