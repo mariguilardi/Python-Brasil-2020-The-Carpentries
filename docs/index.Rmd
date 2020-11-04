@@ -267,7 +267,7 @@ class:  middle
 
 - Instrutoras organizam e ensinam oficinas para disseminar a alfabetização em dados e habilidades de programação tanto local quanto globalmente. 
 
-- Instrutores promovem e modelam a importância do *software* e dos dados na pesquisa.
+- Instrutoras promovem e modelam a importância do *software* e dos dados na pesquisa.
 
 - As pessoas instrutoras de nossa comunidade trabalham juntas para aumentar ativamente suas habilidades técnicas e de instrução. 
 
