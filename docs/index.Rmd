@@ -313,13 +313,13 @@ class:   middle
 
   - Durante período de quarentena: possibilidade de realizar treinamento quatro dias com 1h30min. 
 
-4. *Checkout Process*: 
+4. Etapa final de treinamento (*Checkout Process*): 
 
   4.1 Contribuir com uma oficina, através do GitHub.
  
   4.2 Participar de uma discussão online (*community discussion*).
   
-  4.3 *Live coding demo* de 5 minutos.
+  4.3 Demonstração com código ao vivo (*live coding demo*) de 5 minutos.
 
 ---
 class: middle
