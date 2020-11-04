@@ -4,7 +4,8 @@ subtitle: "Como fazer parte da comunidade global The Carpentries?"
 author: 
   - "Mariana Dias Guilardi"
   - "Beatriz Milz"
-date: 'Python Brasil 2020'
+institute: "Python Brasil 2020" 
+date: "bit.ly/CarpentriesPyBR2020"
 encoding: "UTF-8"
 output:
   xaringan::moon_reader:
@@ -380,5 +381,5 @@ knitr::include_graphics("img/pybr.png")
 # Agradecemos sua atenção!
 
 <br>
-Apresentação disponível neste link: [bit.ly/CarpentriesPyBR2020](http://bit.ly/CarpentriesPyBR2020)
+Apresentação disponível em [bit.ly/CarpentriesPyBR2020](http://bit.ly/CarpentriesPyBR2020)
 
