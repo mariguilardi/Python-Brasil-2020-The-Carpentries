@@ -35,7 +35,7 @@ xaringanExtra::use_logo(
 
 
 .pull-left[
-### Mariana Dias Guilardi
+### Mariana Dias Guilardi (ela/dela)
 <!-- inicio icones -->
 <a href='mailto:diasgmariana@gmail.com'><i class="far fa-envelope"></i></a>   
 <a href='https://twitter.com/mariguilardi'  target="_blank"><i class="fab fa-twitter"></i></a>   
@@ -52,7 +52,7 @@ xaringanExtra::use_logo(
 ]
 
 .pull-right[
-### Beatriz Milz
+### Beatriz Milz (ela/dela)
 <!-- inicio icones -->
 <a href='https://beatrizmilz.com'><i class="fas fa-house-user"></i></a>    
 <a href='mailto:beatriz.milz@usp.br'><i class="far fa-envelope"></i></a>   
