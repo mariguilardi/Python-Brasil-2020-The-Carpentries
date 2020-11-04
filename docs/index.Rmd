@@ -380,7 +380,7 @@ class: middle
 class: middle, center
 
 ```{r echo=FALSE, out.width="40%", fig.align='center', fig.cap="Legenda: Ilustração por <a href='https://github.com/allisonhorst/stats-illustrations'> Allison Horst</a>. Descrição: Aparece uma pessoa usando uma capa de super heroína vermelha, com um notebook em mãos, e está dizendo 'Estou fazendo tudo sozinha!'. Enquanto isso, ela está amarrada por fios em dois balões de ar coloridos com pessoas dentro, e abaixo dela aparecem pessoas carregando um pula-pula. Essas pessoas representam a comunidade, professoras, amigas, mentoras, desenvolvedoras, contribuidoras, entre outras!"}
-knitr::include_graphics("img/code_hero_blank.png")
+knitr::include_graphics("img/hero-code-pt.png")
 ```
 
 ---
